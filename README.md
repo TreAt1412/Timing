@@ -5,6 +5,6 @@ install package
 coravel
 microsoft.aspnet.webapi.client
 microsoft.extentions.hosting
-microsoft.extentions.hosting.windowservice
+microsoft.extentions.hosting.windowsservice
 serilog.aspnetcore
 serilog.sinks.file
